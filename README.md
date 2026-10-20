@@ -1,7 +1,7 @@
 # Data repository (arXiv:2607.09216)
 Data repository for the paper
 "Hunting for new physics in $B$ meson $b\to u$ transitions: A fresh look with Belle II data",
-P. Colangelo, F. De Fazio, M.L. Di Cuia, and D. Milillo, [arXiv:2607.09216v2](https://arxiv.org/abs/2607.09216).
+P. Colangelo, F. De Fazio, M.L. Di Cuia, and D. Milillo, [arXiv:2607.09216](https://arxiv.org/abs/2607.09216).
 
 ## Posterior samples
 
@@ -9,7 +9,7 @@ MCMC posterior samples of the global fit of $B^-\to\mu^-\bar\nu_\mu$, $\bar B^0\
 
 Files:
 - [`global_samples_Vubmin.txt`](samples/global_samples_Vubmin.txt): $|V_{ub}| = 3.51\times10^{-3}$
-- [`global_samples_Vubmid.txt`](samples/global_samples_Vubmid.txt): $|V_{ub}| = 3.85\times10^{-3}$
+- [`global_samples_Vubmid.txt`](samples/global_samples_Vubmid.txt): $|V_{ub}| = 3.84\times10^{-3}$
 - [`global_samples_Vubmax.txt`](samples/global_samples_Vubmax.txt): $|V_{ub}| = 4.19\times10^{-3}$
 
 Columns: `chain, step, Re_eps1, Im_eps1, Re_eps2, Im_eps2, Re_epsS, Im_epsS,
